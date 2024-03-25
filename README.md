@@ -12,7 +12,7 @@
 4. Запустите программу командой:
 
 ```bash
-python string_reverser.py
+python registration.py
 ```
 
 ## Использование программы
